@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MediaGram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\propertiespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|solutionrelative:mediagram\\propertiespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|solutionrelative:mediagram\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\propertiespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|solutionrelative:mediagram\\propertiespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|solutionrelative:mediagram\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|solutionrelative:mediagram\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MediaGram||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|solutionrelative:mediagram\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|solutionrelative:mediagram\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD6D203-8683-4776-9C3C-B87383ED0E47}|MediaGram\\MediaGram.csproj|c:\\users\\admin\\source\\repos\\mediagram\\mediagram\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|aca4ca7d-e28d-419e-929c-0df9627acd26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertiesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\PropertiesPage.xaml",
+              "RelativeDocumentMoniker": "MediaGram\\PropertiesPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\PropertiesPage.xaml",
+              "RelativeToolTip": "MediaGram\\PropertiesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-30T09:28:05.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertiesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\PropertiesPage.xaml.cs",
+              "RelativeDocumentMoniker": "MediaGram\\PropertiesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\PropertiesPage.xaml.cs",
+              "RelativeToolTip": "MediaGram\\PropertiesPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T09:27:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MediaGram\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\MainPage.xaml",
+              "RelativeToolTip": "MediaGram\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-30T09:23:24.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediaGram",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\MediaGram.csproj",
+              "RelativeDocumentMoniker": "MediaGram\\MediaGram.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\MediaGram.csproj",
+              "RelativeToolTip": "MediaGram\\MediaGram.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-01-30T09:07:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "MediaGram\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\LoginPage.xaml.cs",
+              "RelativeToolTip": "MediaGram\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwHsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T08:18:47.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "MediaGram\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\LoginPage.xaml",
+              "RelativeToolTip": "MediaGram\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-30T08:18:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\App.xaml",
+              "RelativeDocumentMoniker": "MediaGram\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\App.xaml",
+              "RelativeToolTip": "MediaGram\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-30T08:18:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MediaGram\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MediaGram\\MediaGram\\App.xaml.cs",
+              "RelativeToolTip": "MediaGram\\App.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T08:17:56.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

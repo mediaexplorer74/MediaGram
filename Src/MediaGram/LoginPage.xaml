@@ -1,0 +1,96 @@
+﻿<Page
+    x:Class="MediaGram.LoginPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MediaGram"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="login_form" Background="#FF3AADFD" Height="640" VerticalAlignment="Top">
+        
+        <Grid x:Name="phone_dialog" Visibility="Visible">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            
+            <TextBlock Text="Enter Your Phone Number" 
+                       Grid.ColumnSpan="2" 
+                       VerticalAlignment="Bottom"
+                       HorizontalAlignment="Center" 
+                       FontSize="22" />
+            
+            <ComboBox x:Name="countriesCodesList" 
+                      Grid.Row="1" 
+                      Grid.Column="0" 
+                      Grid.ColumnSpan="1"
+                      HorizontalAlignment="Right" 
+                      Margin="0,14,0,0" 
+                      Height="45" 
+                      Width="125" 
+                      IsTextSearchEnabled="true"
+                      DisplayMemberPath="NameAndCode" 
+                      SelectedIndex="0"
+                      SelectedValuePath="Dial_code" />
+            
+            <!--TextWrapping="Wrap"-->
+                <TextBox x:Name="txt_phone_number" 
+                     Grid.Row="1" 
+                     Grid.Column="1" 
+                     Grid.ColumnSpan="1" 
+                     HorizontalAlignment="Left" 
+                     BorderThickness="0 0 0 1" 
+                     BorderBrush="Black"
+                     Height="44" 
+                     Width="175"/>
+            
+            <Button Click="btn_setPhoneNumber_Click" 
+                    x:Name="btn_setPhoneNumber" 
+                    Grid.Row="2"
+                    Grid.ColumnSpan="2"
+                    Content="Request code" 
+                    VerticalAlignment="Top" 
+                    HorizontalAlignment="Center"
+                    Width="185" 
+                    Height="45"/>
+        </Grid>
+        
+        <Grid x:Name="code_dialog" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            
+            <TextBlock Text="Enter received code" VerticalAlignment="Bottom"
+                       HorizontalAlignment="Center" FontSize="22"/>
+            
+            <TextBox x:Name="txt_received_code" Grid.Row="1"
+                     HorizontalAlignment="Center" 
+                     BorderThickness="0 0 0 1" 
+                     BorderBrush="Black"
+                     Height="44" 
+                     Width="200" 
+                     />
+            
+            <Button Click="btn_setReceivedCode_Click" 
+                    x:Name="btn_setReceivedCode" 
+                    Grid.Row="2" Content="Continue"
+                    VerticalAlignment="Top" 
+                    HorizontalAlignment="Center" 
+                    Width="185" 
+                    Height="45"/>
+        </Grid>
+        
+      
+    </Grid>
+ </Page>
+    
